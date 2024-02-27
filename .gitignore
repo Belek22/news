@@ -1,0 +1,13 @@
+.idea
+media
+venv
+db.sqlite
+
+__pycache__
+
+migrations
+
+.env
+
+.DS_Store
+/hhh.txt
